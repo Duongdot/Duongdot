@@ -65,9 +65,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
+  </a> -->
   <a href="https://github.com/Duongdot" target="_blank">
     <img src="https://img.icons8.com/color/2x/foam-bubbles.png" alt="trungquandev-facebook" />
   </a>
